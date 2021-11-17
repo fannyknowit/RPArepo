@@ -1,0 +1,4 @@
+right click skapa text file
+git add.
+git commit -m 'jek'
+git push
