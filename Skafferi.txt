@@ -4,3 +4,4 @@ Skafferiet:
 - Socker
 - Sirap
 - Bakpulver
+- Urbans favoritsenap
